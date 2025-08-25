@@ -248,13 +248,17 @@ section {
 }
 
 .intro-bg-01 {
-   background-image: url(../images/intro/intro-bg-01.jpg);
+background-image: url("/Lumi-Forest/assets/images/intro/intro-bg-01.jpg");
+
+);
 }
 .intro-bg-02 {
-   background-image: url(../images/intro/intro-bg-02.jpg);
+background-image: url("/Lumi-Forest/assets/images/intro/intro-bg-02.jpg");
+
 }
 .intro-bg-03 {
-   background-image: url(../images/intro/intro-bg-03.jpg);
+background-image: url("/Lumi-Forest/assets/images/intro/intro-bg-03.jpg");
+
 }
 
 /* ===================================================
