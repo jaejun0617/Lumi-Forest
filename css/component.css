@@ -34,7 +34,7 @@
 }
 
 .prologue-preview ul li:first-child {
-   background-image: url(/assets/images/Prologue/Prologue-preview1-1.jpg);
+   background-image: url(./assets/images/Prologue/Prologue-preview1-1.jpg);
    background-size: cover;
    background-position: center center;
    background-repeat: no-repeat;
